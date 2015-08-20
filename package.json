@@ -1,9 +1,10 @@
 {
   "name": "h5Validate",
   "version": "0.9.1",
-  "description": "HTML5 form validation",
+  "main": "h5Validate.js",
+  "description": "HTML5 form validation - Modified to support commonJS module style",
   "author": {
-    "name": "Eric Elliott",
+    "name": "Eric Elliott and Glen Ihrig",
     "url": "http://ericleads.com"
   },
   "keywords": [
@@ -11,11 +12,12 @@
     "html5",
     "form validation",
     "validation",
-    "jquery"
+    "jquery",
+    "commonJS"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dilvie/h5Validate.git"
+    "url": "https://github.com/coupeez/h5Validate.git"
   },
   "devDependencies": {
     "grunt": "*",
@@ -27,6 +29,6 @@
     "test": "./scripts/test.sh"
   },
   "engines": {
-    "node": "~0.x.x"
+    "node": ">0.10.x"
   }
 }

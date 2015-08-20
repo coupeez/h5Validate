@@ -13,3 +13,12 @@ For demo and usage, see <a href="http://ericleads.com/h5validate">the h5Validate
 A lot has changed since I wrote this library in 2010. So much, in fact, that I've started a new project based on the great work we did here. It's called [h5v2](https://github.com/ericelliott/h5v2). It's brand new, we haven't even ported the unit tests, yet.
 
 Wouldn't you like a library like h5Validate written to work with node-style modules, Browserify, and web components? I'd love your help. [Take a look at the issues and contribute!](https://github.com/ericelliott/h5v2/issues)
+
+August 20 2015
+version 0.9.1-mod
+
+Forked and modified to:
+ - support commonJS/NPM style module loader.
+ - require('jquery'); expected to be installed in node_modules
+ - Rename library main file: jquery.h5Vlaidate.js -> h5Validate.js
+ - Include main: property in package.json in support of commonJS
