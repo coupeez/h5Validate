@@ -1,11 +1,11 @@
 {
   "name": "h5Validate",
-  "version": "0.9.1",
+  "version": "0.1.0",
   "main": "h5Validate.js",
   "description": "HTML5 form validation - Modified to support commonJS module style",
   "author": {
     "name": "Eric Elliott and Glen Ihrig",
-    "url": "http://ericleads.com"
+    "url": "http://ericleads.com, https://github.com/coupeez/h5Validate"
   },
   "keywords": [
     "form",
