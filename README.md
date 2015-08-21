@@ -14,10 +14,11 @@ A lot has changed since I wrote this library in 2010. So much, in fact, that I'v
 
 Wouldn't you like a library like h5Validate written to work with node-style modules, Browserify, and web components? I'd love your help. [Take a look at the issues and contribute!](https://github.com/ericelliott/h5v2/issues)
 
-August 20 2015
-version 0.9.1-mod
+##Forked from ericelliott / h5Validate 0.9.1 and modified by coupeez
 
-Forked and modified to:
+August 20 2015
+version 0.1.0
+
  - support commonJS/NPM style module loader.
  - require('jquery'); expected to be installed in node_modules
  - Rename library main file: jquery.h5Vlaidate.js -> h5Validate.js
