@@ -8,7 +8,7 @@ version 0.1.0
  - Rename library main file: jquery.h5Vlaidate.js -> h5Validate.js
  - Include main: property in package.json in support of commonJS
 
-# <a href="http://ericleads.com/h5validate">h5Validate</a>
+# <a href="https://github.com/ericelliott/h5Validate">h5Validate</a>
 
 Hi,
 
@@ -16,7 +16,7 @@ I'm Eric Elliott, author of ["Programming JavaScript Applications" (O'Reilly)](h
 
 In browsers that do support HTML5, h5Validate adds some much-needed features, such as the ability to customize the user interface when an input fails validation.
 
-For demo and usage, see <a href="http://ericleads.com/h5validate">the h5Validate homepage</a>.
+For demo and usage, see <a href="https://github.com/ericelliott/h5Validate">the h5Validate homepage</a>.
 
 ## Status
 
